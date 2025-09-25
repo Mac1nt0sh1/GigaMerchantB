@@ -1,1 +1,1 @@
-web: python -m server.models
+web: python start.py
