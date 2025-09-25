@@ -12,4 +12,4 @@ class User(Model):
         table = "users"
 
 
-UserSchema = pydantic_model_creator(User, name="User")
+UserSchema = pydantic_model_creator(User)

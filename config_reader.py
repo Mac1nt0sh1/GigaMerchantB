@@ -18,7 +18,7 @@ class Config(BaseSettings):
     DB_URL: SecretStr
 
     WEBHOOK_URL: str = "https://hrqkq-104-239-74-10.a.free.pinggy.link"
-    WEBAPP_URL: str = "https://consentient-kesha-nonwarrantably.ngrok-free.dev"
+    WEBAPP_URL: str = "https://gigamerchanb.web.app"
 
     APP_HOST: str = "localhost"
     APP_PORT: int = 8080
